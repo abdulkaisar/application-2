@@ -1,0 +1,36 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    html{
+    display: flex;
+    justify-content: center;
+    background: url();
+}    
+
+h1{
+    
+    text-align: center;
+    color: blue;
+
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
